@@ -15,9 +15,7 @@ Analyses Avancées : Étude des tendances temporelles, croissance cumulative et 
 Le projet utilise un schéma en étoile composé de trois tables principales :
 
 fact_sales : Le cœur de l'activité (transactions, quantités, montants, dates).
-
 dim_products : Catalogue des articles (noms, catégories, coûts).
-
 dim_customers : Profils des clients (localisation, genre, âge).
 
 Indicateurs Clés (KPIs)🚀
