@@ -1,27 +1,44 @@
 📊 Analyse EDA & Performance Business
 
+
 📝 Présentation du Projet
+
 Ce projet consiste en une analyse approfondie des données de ventes d'une entreprise (données de type Retail/E-commerce). L'objectif est de transformer des données brutes en indicateurs stratégiques pour comprendre la croissance, la saisonnalité et le comportement des clients.
 
 L'analyse repose sur deux piliers :
+
 Exploration & Nettoyage : Compréhension des volumes et des périodes couvertes.
 Analyses Avancées : Étude des tendances temporelles, croissance cumulative et segmentation marketing (VIP vs Nouveaux).
 
 🗂️ Structure des Données
+
 Le projet utilise un schéma en étoile composé de trois tables principales :
+
 fact_sales : Le cœur de l'activité (transactions, quantités, montants, dates).
+
 dim_products : Catalogue des articles (noms, catégories, coûts).
+
 dim_customers : Profils des clients (localisation, genre, âge).
 
 Indicateurs Clés (KPIs)🚀
+
+
 Chiffre d'Affaires : 29,36 M$ (Croissance identifiée sur 3 ans).
+
 Panier Moyen (AOV) : 1 061 $ (Indique un positionnement Premium).
+
 Base Clients : 18 484 profils analysés.
+
 Dominance Produit : 96% du CA provient de la catégorie Bikes.
 
 🔍 Analyses Avancées & Insights
+
+
+
 1. Analyse des Tendances (Saisonnalité)
+
 Nous avons agrégé les ventes par mois pour identifier les cycles de consommation.
+
 
 Insight : Les ventes montrent une accélération progressive, avec une forte activité en fin d'année (pic en novembre/décembre), suggérant une forte saisonnalité liée aux fêtes ou aux promotions de fin d'année.
 
