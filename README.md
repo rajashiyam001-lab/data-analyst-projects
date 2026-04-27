@@ -1,4 +1,4 @@
---Analyse de eda et  Performance 
+📊 Analyse EDA & Performance Business
 
 📝 Présentation du Projet
 Ce projet consiste en une analyse approfondie des données de ventes d'une entreprise (données de type Retail/E-commerce). L'objectif est de transformer des données brutes en indicateurs stratégiques pour comprendre la croissance, la saisonnalité et le comportement des clients.
